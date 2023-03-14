@@ -1,0 +1,47 @@
+body{
+	width:1335px;
+	height:768px;
+}
+
+header{
+	width:1335px;
+	height:35px;
+	background-color:rgb(99,105,127);
+	color:white;
+}
+
+aside {
+    width: 50%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: arial;
+    color: #000000;
+}
+
+aside > p {
+    margin: .5rem;
+}
+
+.paraheader {
+	font-size:24px;
+	color:white;
+	padding-left:15px;
+	padding-top:3px;
+}
+
+.banniere{
+	width:1335px;
+	height:200px;
+	background-color:white;
+}
+
+.corps{
+	width:1335px;
+	height:533px;
+	background-color:#c2c9f0;
+}
+.dogo{
+    width:100px;
+}
